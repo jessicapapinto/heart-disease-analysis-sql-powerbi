@@ -1,26 +1,5 @@
-# heart-disease-analysis-sql-powerbi
-Analysis of UCI Heart Disease dataset using SQL and Power BI
-
-Há vários problemas neste texto que precisam de ser corrigidos antes de publicar:
-Erros factuais graves:
-
-Diz 303 pacientes — o teu dataset tem 920
-A tabela de variáveis usa os códigos antigos (0=Female, 1=Male, target) — o teu dataset usa texto (Male/Female) e a variável chama-se num não target
-"University Hospital Basel" — o teu dataset tem VA Long Beach, não Basel
-
-Problemas de formatação:
-
-As listas estão todas numa linha — "Typical angina... Atypical angina... Non-cardiac..."
-A tabela está toda colada sem separação
-
-
-Aqui está a introdução e contexto clínico corrigidos e prontos a copiar para o Kaggle em Markdown:
-
-markdown# Heart Disease Risk Analysis
 ## SQL Exploration & Power BI Dashboard
 *UCI Heart Disease Dataset | Clinical Data Analysis*
-
----
 
 ## 1. Introduction
 
