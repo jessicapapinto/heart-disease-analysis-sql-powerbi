@@ -26,9 +26,9 @@ Chest pain can have many causes, both cardiac and non-cardiac. Cardiac causes in
 - **Typical angina:** retrosternal discomfort lasting 2-15 minutes, triggered by exertion or stress, relieved by rest or nitrates
 - **Atypical angina:** only two of the above characteristics present
 - **Non-cardiac chest pain:** one or none of the above characteristics
-- **Asymptomatic:** no chest pain. Patient may have silent ischaemia
+- **Asymptomatic:** no chest pain. Patients may have silent ischaemia
 
-This terminology has been considered ambiguous in recent literature *(DOI: 10.1161/HCQ.0000000000000112)*. A patient coded as asymptomatic may still have silent ischaemia — a clinically important consideration.
+This terminology has been considered ambiguous in recent literature *(DOI: 10.1161/HCQ.0000000000000112)*. A patient coded as asymptomatic may still have silent ischaemia, a clinically important consideration.
 
 ### 2.3 Cholesterol and Fasting Blood Sugar
 
