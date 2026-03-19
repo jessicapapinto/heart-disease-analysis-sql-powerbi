@@ -43,22 +43,22 @@ It is important to note that total cholesterol alone is not the most accurate ca
 
 ### 2.4 ST Segment Depression (oldpeak)
 
-The ST segment in an ECG represents the period between ventricular depolarization and repolarization. ST segment depression indicates myocardial ischaemia — the greater the depression, the higher the likelihood of coronary artery disease. Values above 2mm are considered clinically significant *(DOI: 10.1161/01.cir.99.21.2829)*. Negative oldpeak values may represent ST segment elevation, associated with acute myocardial infarction.
+The ST segment in an ECG represents the period between ventricular depolarization and repolarization. ST segment depression indicates myocardial ischaemia, the greater the depression, the higher the likelihood of coronary artery disease. Values above 2mm are considered clinically significant *(DOI: 10.1161/01.cir.99.21.2829)*. Negative oldpeak values may represent ST segment elevation, associated with acute myocardial infarction.
 
 ### 2.5 Major Vessels (ca)
 
-The number of major vessels colored by fluoroscopy indicates how many coronary arteries show significant stenosis (narrowing >= 50%). The heart has three main coronary arteries: LAD, LCX, and RCA. This measurement is obtained through coronary angiography — an invasive procedure where contrast dye is injected and visualized under real-time X-ray.
+The number of major vessels colored by fluoroscopy indicates how many coronary arteries show significant stenosis (narrowing >= 50%). The heart has three main coronary arteries: LAD, LCX, and RCA. This measurement is obtained through coronary angiography, an invasive procedure where contrast dye is injected and visualized under real-time X-ray.
 
 - **ca = 0:** no vessels affected
 - **ca = 1:** one vessel affected
 - **ca = 2:** two vessels affected
-- **ca = 3:** all three main vessels affected — severe disease and poor prognosis
+- **ca = 3:** all three main vessels affected (severe disease and poor prognosis)
 
 ### 2.6 Stress Test Results (thal)
 
 - **Normal:** no perfusion defects
-- **Fixed defect:** scar tissue — indicative of previous myocardial infarction
-- **Reversable defect:** active ischaemia — most clinically concerning finding
+- **Fixed defect:** scar tissue. Indicative of previous myocardial infarction
+- **Reversable defect:** active ischaemia. Most clinically concerning finding
 
 ---
 
