@@ -7,7 +7,7 @@ Cardiovascular disease (CVD) remains one of the leading causes of morbidity and 
 
 This project explores the UCI Heart Disease dataset, which contains clinical data from patients evaluated for coronary artery disease across four medical institutions: Cleveland Clinic Foundation, Hungarian Institute of Cardiology, University Hospital Zurich, and VA Long Beach. The dataset combines data from **920 patients** and **14 clinical variables**, making it one of the most widely used datasets in cardiovascular research.
 
-The primary objective of this project is to use **SQL** for data exploration, cleaning, and analysis, and **Power BI** for interactive dashboard visualization, to identify key clinical patterns and risk factors associated with heart disease. A particular focus is placed on understanding whether commonly assumed risk factors — such as chest pain and high cholesterol — are truly predictive in this population, and whether any unexpected patterns emerge from the data.
+The primary objective of this project is to use **SQL** for data exploration, cleaning, and analysis, and **Power BI** for interactive dashboard visualization, to identify key clinical patterns and risk factors associated with heart disease. A particular focus is placed on understanding whether commonly assumed risk factors,  such as chest pain and high cholesterol, are truly predictive in this population, and whether any unexpected patterns emerge from the data.
 
 This analysis combines a data science approach with clinical domain knowledge, drawing on peer-reviewed literature to contextualise and interpret findings. The goal is not only to identify statistical associations but to understand their clinical significance and implications for patient care.
 
