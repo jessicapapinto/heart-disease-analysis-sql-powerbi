@@ -12,9 +12,9 @@ This analysis combines a data science approach with clinical domain knowledge, d
 
 # 2. Clinical Background
 ## 2.1 Age and Cardiovascular Risk
--- Age is one of the strongest independent risk factors for cardiovascular disease. The prevalence of myocardial infarction is approximately 3.8% in individuals under 60 years and rises to 9.5% in those aged 60 and above. True coronary syndromes are uncommon in individuals under 40 years of age unless specific risk factors are present (DOI: 10.1016/j.eclinm.2023.102230). In this dataset, any patient under 40 presenting with heart disease should be interpreted with caution and examined for additional compounding risk factors.
+Age is one of the strongest independent risk factors for cardiovascular disease. The prevalence of myocardial infarction is approximately 3.8% in individuals under 60 years and rises to 9.5% in those aged 60 and above. True coronary syndromes are uncommon in individuals under 40 years of age unless specific risk factors are present (DOI: 10.1016/j.eclinm.2023.102230). In this dataset, any patient under 40 presenting with heart disease should be interpreted with caution and examined for additional compounding risk factors.
 
--- 2.2 Chest Pain Classification (cp)
+## 2.2 Chest Pain Classification (cp)
 -- Chest pain can have many causes, both cardiac and non-cardiac. Cardiac causes include angina, myocardial infarction, and pericarditis. Non-cardiac causes include gastroesophageal reflux, anxiety, muscle tension, and pulmonary embolism. Chest pain is classified according to the Diamond criteria:
 -- Typical angina: retrosternal discomfort lasting 2-15 minutes, triggered by exertion or stress, relieved by rest or nitrates Atypical angina: only two of the above characteristics present Non-cardiac chest pain: one or none of the above characteristics Asymptomatic: no chest pain — patient may have silent ischaemia
 -- This terminology has been considered ambiguous in recent literature (DOI: 10.1161/HCQ.0000000000000112). A patient coded as asymptomatic may still have silent ischaemia — a clinically important consideration.
